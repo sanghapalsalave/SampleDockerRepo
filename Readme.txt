@@ -1,6 +1,8 @@
 /* Author - Sanghapal Salave  */
 
 Follow the below commands to use this docker project
+To run code on windows environment 
+open docker setting in software -> Docker Engine-> set "experimental": true
 1 ) Create springboot application using STS add Dockerfile to your project refer SampleDocker/Dockerfile
 1) Download the docker software from docker officiale website.
 2) Install the docker
